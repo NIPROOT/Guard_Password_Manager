@@ -1,9 +1,8 @@
-#            ╔═════════════════════════HaZaRd═════════════════════════════╗
-#            ║        Youtube: https://www.youtube.com/@IIIHaZaRd         ║
-#            ║        Github: https://github.com/Pytholearn               ║
+#            ╔═════════════════════════Niproot════════════════════════════╗
+#            ║        Youtube: https://www.youtube.com/@Niproot           ║
+#            ║        Github: https://github.com/Niproot                  ║
 #            ║        Discord: https://discord.gg/YU7jYRkxwp              ║
 #            ╚════════════════════════════════════════════════════════════╝
-
 # This is a Python script for an automatic updating system using a library named AutoUpdate
 import urllib.request
 
@@ -49,9 +48,8 @@ def download(path_to_file):
 
 
 
-
-#            ╔═════════════════════════HaZaRd═════════════════════════════╗
-#            ║        Youtube: https://www.youtube.com/@IIIHaZaRd         ║
-#            ║        Github: https://github.com/Pytholearn               ║
+#            ╔═════════════════════════Niproot════════════════════════════╗
+#            ║        Youtube: https://www.youtube.com/@Niproot           ║
+#            ║        Github: https://github.com/Niproot                  ║
 #            ║        Discord: https://discord.gg/YU7jYRkxwp              ║
 #            ╚════════════════════════════════════════════════════════════╝
