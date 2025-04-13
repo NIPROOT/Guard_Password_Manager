@@ -4,7 +4,7 @@ Free and GUI password manager with python
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Visits Badge](https://badges.pufler.dev/visits/Pytholearn/Guard_Password_Manager)](https://github.com/Pytholearn/Guard_Password_Manager)    [![Updated Badge](https://badges.pufler.dev/updated/Pytholearn/Guard_Password_Manager)](https://github.com/Pytholearn/Guard_Password_Manager)   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78313&center=true&vCenter=true&random=true&width=435&lines=Free+And+GUI;Made+By+HAZARD+Nothing;IRAN+ON+TOP;Guard+Password+Manager;Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78313&center=true&vCenter=true&random=true&width=435&lines=Free+And+GUI;Made+By+HAZARD+&+Nothing;IRAN+ON+TOP;Guard+Password+Manager;Python)](https://git.io/typing-svg)
 
 
 A powerful and secure password manager built with **Python**, featuring strong encryption using both UTF-8 and ASCII methods. This application leverages the cryptography library for encryption and decryption, and is designed with a fully functional GUI using the CustomTkinter library.
