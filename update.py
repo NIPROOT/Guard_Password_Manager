@@ -1,6 +1,6 @@
-#            ╔═════════════════════════HaZaRd═════════════════════════════╗
-#            ║        Youtube: https://www.youtube.com/@IIIHaZaRd         ║
-#            ║        Github: https://github.com/Pytholearn               ║
+#            ╔═════════════════════════Niproot════════════════════════════╗
+#            ║        Youtube: https://www.youtube.com/@Niproot           ║
+#            ║        Github: https://github.com/Niproot                  ║
 #            ║        Discord: https://discord.gg/YU7jYRkxwp              ║
 #            ╚════════════════════════════════════════════════════════════╝
 import customtkinter
@@ -14,8 +14,8 @@ from plyer import notification
 
 def check_for_update():
     cwd = os.getcwd()
-    AutoUpdate.CFU.set_url("https://raw.githubusercontent.com/Pytholearn/Guard_Password_Manager/main/version")
-    download_link = "https://github.com/Pytholearn/Guard_Password_Manager.git"
+    AutoUpdate.CFU.set_url("https://raw.githubusercontent.com/Niproot/Guard_Password_Manager/main/version")
+    download_link = "https://github.com/Niproot/Guard_Password_Manager.git"
     AutoUpdate.CFU.set_current_version("2.5.2")
 
     if not AutoUpdate.CFU.is_up_to_date():
@@ -72,8 +72,8 @@ def check_for_update():
     else:
         return
     
-#            ╔═════════════════════════HaZaRd═════════════════════════════╗
-#            ║        Youtube: https://www.youtube.com/@IIIHaZaRd         ║
-#            ║        Github: https://github.com/Pytholearn               ║
+#            ╔═════════════════════════Niproot════════════════════════════╗
+#            ║        Youtube: https://www.youtube.com/@Niproot           ║
+#            ║        Github: https://github.com/Niproot                  ║
 #            ║        Discord: https://discord.gg/YU7jYRkxwp              ║
 #            ╚════════════════════════════════════════════════════════════╝
