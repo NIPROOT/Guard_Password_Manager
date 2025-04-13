@@ -171,7 +171,7 @@ def open_info_window():
     info_window.title("Info")
     def open_github():
         webbrowser.open("https://github.com/Pytholearn")
-        webbrowser.open("https://github.com/Nomthing")
+        webbrowser.open("https://github.com/Niproot")
     github_button = customtkinter.CTkButton(master=info_window, text="Github", command=open_github)
     github_button.pack(pady=10, padx=10)
     def copy_discord_link():
