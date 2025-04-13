@@ -1,6 +1,6 @@
-#            ╔═════════════════════════HaZaRd═════════════════════════════╗
-#            ║        Youtube: https://www.youtube.com/@IIIHaZaRd         ║
-#            ║        Github: https://github.com/Pytholearn               ║
+#            ╔═════════════════════════Niproot════════════════════════════╗
+#            ║        Youtube: https://www.youtube.com/@Niproot           ║
+#            ║        Github: https://github.com/Niproot                  ║
 #            ║        Discord: https://discord.gg/YU7jYRkxwp              ║
 #            ╚════════════════════════════════════════════════════════════╝
 
@@ -22,7 +22,7 @@ customtkinter.set_default_color_theme("dark-blue")
 root = customtkinter.CTk()
 root.geometry("1080x720")
 root.iconbitmap('5582931.ico')  
-root.title("Guard Password Manager - HAZARD & Nothing")
+root.title("Guard Password Manager - HAZARD & Niproot")
 
 notification.notify(
 title='Open App',
@@ -186,8 +186,8 @@ def open_info_window():
     update_button = customtkinter.CTkButton(master=info_window, text="Update", command=update_action)
     update_button.pack(pady=10, padx=10)
     author_label = customtkinter.CTkLabel(master=info_window, text="""
-Code By: HAZARD & Nothing
-Email: police123456789ilia@gmail.com
+Code By: HAZARD & Niproot
+Email: ilianothingg@gmail.com
 IRAN ON TOP
 Written in history: 2024/3/10
 ⓒ Copyright                                   
@@ -197,8 +197,8 @@ Written in history: 2024/3/10
     back_button.pack(pady=10, padx=10)
 show_main_page()
 root.mainloop()
-#            ╔═════════════════════════HaZaRd═════════════════════════════╗
-#            ║        Youtube: https://www.youtube.com/@IIIHaZaRd         ║
-#            ║        Github: https://github.com/Pytholearn               ║
+#            ╔═════════════════════════Niproot════════════════════════════╗
+#            ║        Youtube: https://www.youtube.com/@Niproot           ║
+#            ║        Github: https://github.com/Niproot                  ║
 #            ║        Discord: https://discord.gg/YU7jYRkxwp              ║
 #            ╚════════════════════════════════════════════════════════════╝
