@@ -1,1 +1,1 @@
-pythonw Guard_Password_Manager.py
+python Guard_Password_Manager.py
